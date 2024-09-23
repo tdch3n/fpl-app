@@ -1,10 +1,19 @@
-# 🎈 Blank app template
+# FPL Assist Tool
+---
+A streamlit webapp that allows users to find optimal transfers for their team and help choose the captain for the following week.
 
-A simple Streamlit app template for you to modify!
+## Data Source
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+The dataset used in this app is from:
 
-### How to run it on your own machine
+@misc{anand2016fantasypremierleague,
+  title = {{FPL Historical Dataset}},
+  author = {Anand, Vaastav},
+  year = {2022},
+  howpublished = {Retrieved August 2022 from \url{https://github.com/vaastav/Fantasy-Premier-League/}}
+}
+
+## How to run it on your own machine
 
 1. Install the requirements
 
