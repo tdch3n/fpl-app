@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+st.markdown(st.session_state.page_styling, unsafe_allow_html=True)
+
 # Load all player names
 player_names = list(st.session_state.df['name'].unique().copy())
 

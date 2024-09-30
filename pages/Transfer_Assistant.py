@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import time
 
+st.markdown(st.session_state.page_styling, unsafe_allow_html=True)
+
 # st.image('images/silhouette.png')
 
 if 'starter_selections' not in st.session_state:
