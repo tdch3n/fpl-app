@@ -1,0 +1,662 @@
+,name,position,team,value,prediction
+0,Alex Scott,MID,Bournemouth,49,1.6127723727544794
+1,Carlos Miguel dos Santos Pereira,GK,Nott'm Forest,43,2.9391152566193246
+2,Tomiyasu Takehiro,DEF,Arsenal,48,2.9784233359825065
+3,Malcolm Ebiowei,MID,Crystal Palace,45,1.3828993118335466
+4,Ben Brereton Díaz,MID,Southampton,54,1.9148086152615664
+5,Pau Torres,DEF,Aston Villa,45,1.7546850750963614
+6,Joel Ward,DEF,Crystal Palace,44,2.1782864184733914
+7,Will Lankshear,FWD,Spurs,45,1.1900912227057372
+8,Hwang Hee-chan,MID,Wolves,63,1.666029287103429
+9,Mikey Moore,MID,Spurs,45,1.2809356512571783
+10,Hákon Valdimarsson,GK,Brentford,40,4.8249530932322795
+11,Alex Paulsen,GK,Bournemouth,40,4.516675448270327
+12,João Victor Gomes da Silva,MID,Wolves,49,1.5673900325322263
+13,Cole Palmer,MID,Chelsea,106,2.074237020450911
+14,Mitoma Kaoru,MID,Brighton,67,2.180018056232111
+15,Boubakary Soumaré,MID,Leicester,45,1.5088898023477713
+16,Chris Wood,FWD,Nott'm Forest,61,3.633920891570547
+17,Joe Worrall,DEF,Nott'm Forest,45,1.5109795499775527
+18,Jeffrey Schlupp,MID,Crystal Palace,49,1.7383334112569666
+19,Milos Kerkez,DEF,Bournemouth,45,2.7957279768233745
+20,Adrian Mazilu,MID,Brighton,45,1.4692329238784407
+21,Jason Steele,GK,Brighton,45,3.758913028829884
+22,Arijanet Muric,GK,Ipswich,44,3.801232942574991
+23,Carl Rushworth,GK,Brighton,40,3.758913028829884
+24,Ibrahim Sangaré,MID,Nott'm Forest,45,1.9574103597152845
+25,Hannibal Mejbri,MID,Man Utd,45,1.4692329238784407
+26,Brandon Austin,GK,Spurs,40,2.5768031496663153
+27,Conor Coady,DEF,Leicester,40,1.1063897129238733
+28,Wes Foderingham,GK,West Ham,44,4.8249530932322795
+29,Armando Broja,FWD,Everton,55,1.2853109716609277
+30,Adam Webster,DEF,Brighton,44,1.794273891273905
+31,Thomas Partey,MID,Arsenal,50,1.7989885850161742
+32,Harry Wilson,MID,Fulham,54,1.9757330815751075
+33,Kasey McAteer,MID,Leicester,49,1.8024078247492814
+34,Curtis Jones,MID,Liverpool,53,2.0057324404839334
+35,Wes Burns,MID,Ipswich,49,1.9075612118774332
+36,Gustavo Nunes Fernandes Gomes,MID,Brentford,50,1.4667129821595468
+37,Yunus Emre Konak,MID,Brentford,45,1.5171638688658509
+38,Max Kilman,DEF,West Ham,45,2.217120510972959
+39,Deniz Undav,FWD,Brighton,55,1.1652173967973596
+40,Alex Murphy,DEF,Newcastle,40,1.2031683167473988
+41,George Edmundson,DEF,Ipswich,40,1.829250933450742
+42,Sávio 'Savinho' Moreira de Oliveira,MID,Man City,65,2.588117721563458
+43,Emerson Palmieri dos Santos,DEF,West Ham,45,4.955550295240121
+44,Abdoulaye Doucouré,MID,Everton,53,1.5530850756037058
+45,José Malheiro de Sá,GK,Wolves,44,2.0913952893730716
+46,Alexander Isak,FWD,Newcastle,84,1.629297181869016
+47,Yves Bissouma,MID,Spurs,50,1.2851997535871162
+48,Conor Gallagher,MID,Chelsea,59,1.4050038912920289
+49,Philip Billing,MID,Bournemouth,48,1.305808282989949
+50,Gonçalo Manuel Ganchinho Guedes,MID,Wolves,54,1.8297831309202675
+51,Brajan Gruda,MID,Brighton,54,1.4692329238784407
+52,Rodrigo 'Rodri' Hernandez,MID,Man City,64,1.7913453696346204
+53,Đorđe Petrović,GK,Chelsea,44,4.345419875582723
+54,Justin Devenny,MID,Crystal Palace,45,1.3828993118335466
+55,Craig Dawson,DEF,Wolves,45,2.554759220808164
+56,Jordan Ayew,MID,Leicester,53,2.080759676327605
+57,Marcos Senesi,DEF,Bournemouth,49,2.3588051741453873
+58,Kiernan Dewsbury-Hall,MID,Chelsea,58,1.5006841513339673
+59,Kaine Kesler-Hayden,DEF,Aston Villa,40,2.122876995467014
+60,João Cavaco Cancelo,DEF,Man City,53,1.9457599774246228
+61,Maxwel Cornet,MID,Southampton,49,1.5548074798757376
+62,Jefferson Lerma Solís,MID,Crystal Palace,49,1.6796010763270983
+63,Jannik Vestergaard,DEF,Leicester,40,1.4283139700796452
+64,Luke Thomas,DEF,Leicester,40,1.4283139700796452
+65,Bruno Borges Fernandes,MID,Man Utd,83,2.180998252797575
+66,Adam Smith,DEF,Bournemouth,45,3.000411292582182
+67,Miodrag Pivaš,DEF,Newcastle,40,1.2031683167473988
+68,Billy Gilmour,MID,Brighton,50,1.4692329238784407
+69,Rasmus Højlund,FWD,Man Utd,69,1.3388560646112717
+70,Callum Wilson,FWD,Newcastle,69,1.5329041494779099
+71,Crysencio Summerville,MID,West Ham,58,1.855912652102397
+72,Jesurun Rak-Sakyi,MID,Crystal Palace,45,1.3828993118335466
+73,Oliver Skipp,MID,Leicester,49,1.2918572854328874
+74,Tomáš Souček,MID,West Ham,50,1.6301458770833839
+75,Taylor Harwood-Bellis,DEF,Southampton,40,3.6984868023034574
+76,Alphonse Areola,GK,West Ham,45,3.169902545652473
+77,Lisandro Martínez,DEF,Man Utd,45,2.2522488675801244
+78,Richarlison de Andrade,FWD,Spurs,69,1.1900912227057372
+79,Joško Gvardiol,DEF,Man City,60,1.5810914299262997
+80,Harry Clarke,DEF,Ipswich,40,1.829250933450742
+81,Joachim Andersen,DEF,Fulham,44,3.2592825120220033
+82,Moisés Caicedo Corozo,MID,Chelsea,49,1.7223107554545094
+83,Carlos Henrique Casimiro,MID,Man Utd,49,1.3603722080361917
+84,Roman Dixon,DEF,Everton,40,2.275965861147061
+85,Jhon Durán,FWD,Aston Villa,61,6.551272777083166
+86,Jacob Murphy,MID,Newcastle,53,1.9962319926631165
+87,Sean Longstaff,MID,Newcastle,49,1.5277684400903642
+88,Leander Dendoncker,MID,Aston Villa,45,1.4671840588956053
+89,Trevoh Chalobah,DEF,Crystal Palace,44,2.1782864184733914
+90,Ryan Manning,DEF,Southampton,44,2.178540735524768
+91,Vitalii Mykolenko,DEF,Everton,44,2.4492699453614355
+92,Ryan Christie,MID,Bournemouth,49,2.5870323786820513
+93,Fábio Silva,FWD,Wolves,50,1.4575279743133964
+94,Kepa Arrizabalaga,GK,Bournemouth,45,5.1447843090650585
+95,Frank Onyeka,MID,Brentford,49,1.4667129821595468
+96,Youssef Ramalho Chermiti,FWD,Everton,49,1.2853109716609277
+97,Morgan Gibbs-White,MID,Nott'm Forest,64,2.5958580927355963
+98,Noni Madueke,MID,Chelsea,66,3.4852705603304903
+99,Nélson Cabral Semedo,DEF,Wolves,45,1.2577728645682122
+100,Tommy Doyle,MID,Wolves,49,1.3333756993068255
+101,Tom Heaton,GK,Man Utd,40,3.758913028829884
+102,Lucas Bergvall,MID,Spurs,45,1.5321733348632622
+103,Lesley Ugochukwu,MID,Southampton,45,1.4534101426332993
+104,Evan Ferguson,FWD,Brighton,55,1.3498830189918802
+105,Christian Eriksen,MID,Man Utd,54,2.3185050495352444
+106,Danny Ings,FWD,West Ham,50,1.1121585439453034
+107,Jean-Ricner Bellegarde,MID,Wolves,50,2.017236389421611
+108,Tim Ream,DEF,Fulham,45,1.6806416412004315
+109,Benoît Badiashile,DEF,Chelsea,44,1.3492996410592535
+110,Radu Drăgușin,DEF,Spurs,44,1.3181240703423391
+111,Jack Stephens,DEF,Southampton,40,1.822486981582136
+112,Mateo Kovačić,MID,Man City,55,2.453223937449296
+113,Nicolás Domínguez,MID,Nott'm Forest,49,1.5901705535158093
+114,Ben Doak,MID,Liverpool,45,1.4887894433614242
+115,Phil Foden,MID,Man City,93,1.22983084101697
+116,Mason Mount,MID,Man Utd,63,1.4692329238784407
+117,Gabriel Martinelli Silva,MID,Arsenal,69,2.3270378693823583
+118,Yasin Ayari,MID,Brighton,50,1.5585363588291528
+119,Mikel Merino,MID,Arsenal,60,1.2560932848289075
+120,Facundo Buonanotte,MID,Leicester,50,1.9504405795563424
+121,Caoimhin Kelleher,GK,Liverpool,44,2.0114696142796173
+122,Odeluga Offiah,DEF,Brighton,40,1.794273891273905
+123,Lino da Cruz Sousa,DEF,Aston Villa,40,2.122876995467014
+124,Amario Cozier-Duberry,MID,Brighton,45,1.4692329238784407
+125,Emerson Leite de Souza Junior,DEF,Spurs,45,1.73391298846752
+126,Kai Havertz,FWD,Arsenal,81,2.6783466466827637
+127,Scott Carson,GK,Man City,40,3.750408388000994
+128,Ethan Brierley,MID,Brentford,45,1.4667129821595468
+129,Andrey Nascimento dos Santos,MID,Chelsea,45,1.4050038912920289
+130,Rico Henry,DEF,Brentford,44,1.544575747875891
+131,Mateusz Lis,GK,Southampton,40,2.7139055702889663
+132,Yoane Wissa,FWD,Brentford,61,1.9636517260643749
+133,Daniel Iversen,GK,Leicester,40,1.1131966511966622
+134,Mads Hermansen,GK,Leicester,45,1.5254619460588512
+135,Rob Holding,DEF,Crystal Palace,44,2.1782864184733914
+136,Ismaïla Sarr,MID,Crystal Palace,59,2.7241408189035656
+137,Jarrod Bowen,MID,West Ham,75,1.9695284009216194
+138,Mark O’Mahony,FWD,Brighton,45,1.1652173967973596
+139,Ryan Sessegnon,DEF,Fulham,44,1.6806416412004315
+140,Josh Dasilva,MID,Brentford,49,1.4667129821595468
+141,Jadon Sancho,MID,Chelsea,63,2.104480366227032
+142,Sam Johnstone,GK,Wolves,44,2.054190693628047
+143,Jonny Evans,DEF,Man Utd,44,1.566465405956596
+144,Mohamed Salah,MID,Liverpool,127,3.152764529775067
+145,Federico Chiesa,MID,Liverpool,70,1.3783138024982597
+146,Timothy Castagne,DEF,Fulham,43,1.6806416412004315
+147,Tariq Lamptey,DEF,Brighton,45,1.794273891273905
+148,Ola Aina,DEF,Nott'm Forest,45,2.46017295336584
+149,Taiwo Awoniyi,FWD,Nott'm Forest,58,1.0558632214174577
+150,Leandro Trossard,MID,Arsenal,69,1.8209741205490544
+151,Jacob Greaves,DEF,Ipswich,40,1.8382487570945485
+152,Issa Kaboré,DEF,Man City,45,1.9457599774246228
+153,Alfie Whiteman,GK,Spurs,40,2.5768031496663153
+154,Séamus Coleman,DEF,Everton,44,2.645246782812466
+155,Fabian Schär,DEF,Newcastle,54,0.0
+156,Nicolas Jackson,FWD,Chelsea,76,1.760905312518585
+157,Joe White,MID,Newcastle,45,1.4548193920272423
+158,Jamie Vardy,FWD,Leicester,57,2.887532474041624
+159,Miguel Almirón Rejala,MID,Newcastle,57,1.4548193920272423
+160,James Garner,MID,Everton,50,1.9233030128358481
+161,Marcus Tavernier,MID,Bournemouth,55,3.5132411326139357
+162,Lewis Dobbin,MID,Aston Villa,50,1.4671840588956053
+163,Viljami Sinisalo,GK,Aston Villa,40,4.593023040569654
+164,Omari Kellyman,MID,Chelsea,45,1.4050038912920289
+165,Daniel Castelo Podence,MID,Wolves,55,1.5637473892625282
+166,Martial Godo,MID,Fulham,45,1.347558261923599
+167,Harrison Reed,MID,Fulham,49,1.6910721426354258
+168,Guido Rodríguez,MID,West Ham,50,1.5158621046635523
+169,Will Alves,MID,Leicester,45,1.5088898023477713
+170,Carlos Baleba,MID,Brighton,50,1.9372719523576731
+171,James Hill,DEF,Bournemouth,40,3.101797406151654
+172,David Datro Fofana,FWD,Chelsea,54,1.2853109716609277
+173,Ryan Fraser,MID,Southampton,49,1.9032403504397037
+174,Ângelo Gabriel Borges Damaceno,MID,Chelsea,45,1.4050038912920289
+175,Nathan Patterson,DEF,Everton,44,2.275965861147061
+176,Robin Olsen,GK,Aston Villa,45,4.593023040569654
+177,Mathias Jensen,MID,Brentford,54,1.871326386583898
+178,Bart Verbruggen,GK,Brighton,45,2.6586914207392285
+179,Dango Ouattara,MID,Bournemouth,50,2.665470089826958
+180,Emmanuel Dennis,FWD,Nott'm Forest,49,1.1116394615680498
+181,Yehor Yarmoliuk,MID,Brentford,45,1.330368505735939
+182,Julián Álvarez,FWD,Man City,70,1.223087640579033
+183,Tyler Dibling,MID,Southampton,45,3.0251100823308272
+184,Paul Onuachu,FWD,Southampton,50,1.4597049681183916
+185,Bobby Clark,MID,Liverpool,45,1.4887894433614242
+186,Kieran Tierney,DEF,Arsenal,44,2.9784233359825065
+187,Orel Mangala,MID,Everton,50,1.356620308428242
+188,Darwin Núñez Ribeiro,FWD,Liverpool,72,1.769330215474123
+189,Josh Bowler,MID,Nott'm Forest,45,1.4172353484811135
+190,Sugawara Yukinari,DEF,Southampton,45,5.184087803024932
+191,Aaron Wan-Bissaka,DEF,West Ham,45,4.973162076818711
+192,Bobby De Cordova-Reid,MID,Leicester,54,1.5088898023477713
+193,Manuel Ugarte,MID,Man Utd,50,1.4692329238784407
+194,Nathan Broadhead,MID,Ipswich,49,1.331875173075213
+195,Matheus Luiz Nunes,MID,Man City,49,1.7750947013738414
+196,Jake O'Brien,DEF,Everton,48,1.2196232737631645
+197,Cameron Peupion,MID,Brighton,45,1.4692329238784407
+198,Felipe Rodrigues da Silva,DEF,Nott'm Forest,45,1.5109795499775527
+199,Kosta Nedeljković,DEF,Aston Villa,40,1.9351330784001943
+200,Jay Stansfield,FWD,Fulham,50,1.8517130437826732
+201,Nikola Milenković,DEF,Nott'm Forest,45,1.7825290345283449
+202,Sepp van den Berg,DEF,Brentford,40,2.0450787990523183
+203,Kevin Mbabu,DEF,Fulham,40,1.6806416412004315
+204,Malang Sarr,DEF,Chelsea,45,1.3492996410592535
+205,Jarrad Branthwaite,DEF,Everton,49,2.275965861147061
+206,Ferdi Kadioglu,DEF,Brighton,45,1.5270234665735125
+207,Mats Wieffer,MID,Brighton,49,1.525706344155655
+208,Kyle Walker,DEF,Man City,53,2.9911102126335276
+209,Shea Charles,MID,Southampton,45,1.3145273961289972
+210,Samuel Edozie,MID,Southampton,49,1.3145273961289972
+211,Robert Sánchez,GK,Chelsea,46,1.786480668731389
+212,Sergio Reguilón,DEF,Spurs,44,1.73391298846752
+213,Asmir Begovic,GK,Everton,40,3.7840676881881246
+214,Conor Townsend,DEF,Ipswich,40,1.829250933450742
+215,Ricardo Barbosa Pereira,DEF,Leicester,44,1.4283139700796452
+216,Massimo Luongo,MID,Ipswich,45,1.0592445161442452
+217,Harvey Elliott,MID,Liverpool,52,1.4887894433614242
+218,Garang Kuol,MID,Newcastle,45,1.4548193920272423
+219,Rúben Gato Alves Dias,DEF,Man City,55,3.280165080574296
+220,Romelu Lukaku Bolingoli,FWD,Chelsea,63,1.2853109716609277
+221,Ben Chilwell,DEF,Chelsea,48,1.3492996410592535
+222,George Hirst,FWD,Ipswich,54,2.731399916278166
+223,Daniel Jebbison,FWD,Bournemouth,45,1.0067416322841125
+224,Tyrick Mitchell,DEF,Crystal Palace,49,3.5708729386479234
+225,Myles Peart-Harris,MID,Brentford,45,1.4667129821595468
+226,Mahmoud Dahoud,MID,Brighton,49,1.4692329238784407
+227,Jonathan Panzo,DEF,Nott'm Forest,40,1.5109795499775527
+228,Nico O'Reilly,MID,Man City,50,1.3831408101961062
+229,Aaron Ramsdale,GK,Southampton,44,4.154874224349863
+230,Moussa Diaby,MID,Aston Villa,65,1.4671840588956053
+231,Micky van de Ven,DEF,Spurs,45,2.3219363897692853
+232,Igor Thiago Nascimento Rodrigues,FWD,Brentford,59,1.1292631131076396
+233,Kaden Rodney,MID,Crystal Palace,45,1.3828993118335466
+234,Callum Hudson-Odoi,MID,Nott'm Forest,54,2.0895938413126856
+235,Armel Bella-Kotchap,DEF,Southampton,40,2.178540735524768
+236,Rodrigo Martins Gomes,MID,Wolves,54,1.2894680273284527
+237,Lamare Bogarde,DEF,Aston Villa,40,1.7581796442312054
+238,Noussair Mazraoui,DEF,Man Utd,46,2.720419099485135
+239,Cameron Archer,FWD,Southampton,50,3.117024876048614
+240,Ezri Konsa Ngoyo,DEF,Aston Villa,45,3.019094119259586
+241,Pedro Porro,DEF,Spurs,56,3.4982867619216984
+242,Alfie Devine,MID,Spurs,45,1.4390227605955936
+243,Elkan Baggott,DEF,Ipswich,40,1.829250933450742
+244,Erling Haaland,FWD,Man City,153,2.6986694455831697
+245,Leif Davis,DEF,Ipswich,45,3.001794820590999
+246,Virgil van Dijk,DEF,Liverpool,60,2.894690475176475
+247,Bilal El Khannouss,MID,Leicester,50,1.258110990408536
+248,Konstantinos Mavropanos,DEF,West Ham,45,2.1719400836613416
+249,Matt Turner,GK,Crystal Palace,40,2.9628653366138886
+250,Juan Larios López,DEF,Southampton,40,2.178540735524768
+251,Harry Toffolo,DEF,Nott'm Forest,44,1.5109795499775527
+252,Toby Collyer,MID,Man Utd,45,1.7068997047890093
+253,Asher Agbinone,MID,Crystal Palace,45,1.3828993118335466
+254,Kadan Young,MID,Aston Villa,45,1.4671840588956053
+255,Caleb Wiley,DEF,Chelsea,40,1.3492996410592535
+256,Ethan Pinnock,DEF,Brentford,45,1.6030592064246711
+257,William Saliba,DEF,Arsenal,60,1.289739609980662
+258,Altay Bayindir,GK,Man Utd,44,3.758913028829884
+259,Rodrigo Bentancur,MID,Spurs,50,1.8140388487066401
+260,Dominic Solanke-Mitchell,FWD,Spurs,75,1.9322729332507702
+261,Chris Richards,DEF,Crystal Palace,45,2.3924163927975393
+262,Rayan Aït-Nouri,DEF,Wolves,45,1.7076992901174832
+263,James Justin,DEF,Leicester,45,1.692046764081364
+264,Joshua Zirkzee,FWD,Man Utd,70,1.3623182076804206
+265,Martin Ødegaard,MID,Arsenal,83,1.8967011807565806
+266,Cesare Casadei,MID,Chelsea,45,1.4050038912920289
+267,Jaden Philogene,MID,Aston Villa,53,1.5637974225466968
+268,Mario Lemina,MID,Wolves,50,1.6708754533837178
+269,Adam Wharton,MID,Crystal Palace,49,2.1763366741929193
+270,Luis Sinisterra,MID,Bournemouth,50,2.2094447853875536
+271,Michael Keane,DEF,Everton,40,4.475750531243254
+272,Omar Richards,DEF,Nott'm Forest,45,1.5109795499775527
+273,Álex Moreno Lopera,DEF,Nott'm Forest,44,1.3628188064042095
+274,Stephy Mavididi,MID,Leicester,53,2.2157215839832087
+275,Anthony Gordon,MID,Newcastle,74,2.127859415750144
+276,Diego Carlos Santos Silva,DEF,Aston Villa,45,4.408026003480332
+277,Facundo Pellistri Rebollo,MID,Man Utd,50,1.4692329238784407
+278,Trent Alexander-Arnold,DEF,Liverpool,71,4.978491815333482
+279,Josh King,MID,Fulham,45,1.347558261923599
+280,Matt O'Riley,MID,Brighton,55,1.4692329238784407
+281,Wanya Marçal-Madivádua,MID,Leicester,45,1.5088898023477713
+282,Jamal Lewis,DEF,Newcastle,40,1.2031683167473988
+283,Jørgen Strand Larsen,FWD,Wolves,55,1.743319258389906
+284,Jack Harrison,MID,Everton,54,1.485933124010506
+285,Riccardo Calafiori,DEF,Arsenal,58,1.4157724063868558
+286,Luke Cundle,MID,Wolves,45,1.5637473892625282
+287,Jan Bednarek,DEF,Southampton,40,2.1890696775577934
+288,André Onana,GK,Man Utd,50,3.251665999212894
+289,Odsonne Edouard,FWD,Leicester,54,0.0
+290,Deivid Washington de Souza Eugênio,FWD,Chelsea,50,1.2853109716609277
+291,Lewis O'Brien,MID,Nott'm Forest,50,1.4172353484811135
+292,Bukayo Saka,MID,Arsenal,100,2.287636697811346
+293,Alex Mighten,MID,Nott'm Forest,45,1.4172353484811135
+294,Djed Spence,DEF,Spurs,44,1.73391298846752
+295,Hamza Choudhury,MID,Leicester,45,1.773805761729784
+296,Wesley Fofana,DEF,Chelsea,45,1.9224588467715948
+297,Lucas Digne,DEF,Aston Villa,46,1.6089669942362903
+298,Joe Aribo,MID,Southampton,50,2.5765351225697137
+299,Fábio Ferreira Vieira,MID,Arsenal,54,1.2560932848289075
+300,Guglielmo Vicario,GK,Spurs,50,3.7806998143920625
+301,Tony Yogane,MID,Brentford,45,1.4667129821595468
+302,Nathan Fraser,FWD,Wolves,45,1.4575279743133964
+303,Christian Walton,GK,Ipswich,45,3.301039955090056
+304,Matthijs de Ligt,DEF,Man Utd,50,2.19826719005634
+305,Jack Hinshelwood,MID,Brighton,50,1.9652815535083894
+306,Antoine Semenyo,MID,Bournemouth,56,2.110302087934432
+307,Will Dennis,GK,Bournemouth,40,4.516675448270327
+308,Omari Giraud-Hutchinson,MID,Ipswich,54,2.464712333339634
+309,Dane Scarlett,FWD,Spurs,45,1.1900912227057372
+310,Joe Lumley,GK,Southampton,40,2.7139055702889663
+311,Dwight McNeil,MID,Everton,54,2.8204408700798185
+312,Kim Ji-soo,DEF,Brentford,40,1.544575747875891
+313,Franco Umeh-Chibueze,MID,Crystal Palace,45,1.3828993118335466
+314,Andy Irving,MID,West Ham,49,1.5296317914051962
+315,Karl Hein,GK,Arsenal,40,2.3312191842805245
+316,Nathaniel Clyne,DEF,Crystal Palace,44,2.08000068452449
+317,Saša Lukić,MID,Fulham,50,2.3212720510070115
+318,Kevin De Bruyne,MID,Man City,96,1.7490274111627926
+319,Norberto Murara Neto,GK,Arsenal,44,2.3312191842805245
+320,Tyrell Malacia,DEF,Man Utd,44,1.794273891273905
+321,Lucas Tolentino Coelho de Lima,MID,West Ham,60,1.7742592454713666
+322,Lewis Dunk,DEF,Brighton,46,2.18155617803562
+323,Mason Holgate,DEF,Everton,40,2.275965861147061
+324,Kurt Zouma,DEF,West Ham,44,1.544575747875891
+325,Sékou Mara,FWD,Southampton,50,1.4597049681183916
+326,Antony Matheus dos Santos,MID,Man Utd,58,1.4692329238784407
+327,Dara O'Shea,DEF,Ipswich,40,2.187863665225411
+328,Kalvin Phillips,MID,Ipswich,50,1.5389238197160595
+329,Ibrahima Konaté,DEF,Liverpool,51,2.856494771572587
+330,Chadi Riad Dnanou,DEF,Crystal Palace,44,2.1782864184733914
+331,Freddie Ladapo,FWD,Ipswich,45,1.302898965475535
+332,Levi Colwill,DEF,Chelsea,45,1.9446044732519008
+333,Nick Pope,GK,Newcastle,50,1.429682314134682
+334,Jorge Luiz Frello Filho,MID,Arsenal,49,2.541156371205813
+335,Oliwier Zych,GK,Aston Villa,40,4.593023040569654
+336,Luke Woolfenden,DEF,Ipswich,40,1.699756767511015
+337,Łukasz Fabiański,GK,West Ham,40,4.462799791579963
+338,Idrissa Gueye,MID,Everton,49,1.6759251892805929
+339,Joe Gomez,DEF,Liverpool,49,2.089455143802796
+340,Dominic Calvert-Lewin,FWD,Everton,59,2.994876682499425
+341,Yerson Mosquera,DEF,Wolves,40,1.0800776517040522
+342,Sil Swinkels,DEF,Aston Villa,40,2.122876995467014
+343,Konstantinos Tsimikas,DEF,Liverpool,47,1.7391976470115953
+344,Christian Nørgaard,MID,Brentford,49,2.1094436332128708
+345,Emiliano Martínez Romero,GK,Aston Villa,50,4.778871993510453
+346,Declan Rice,MID,Arsenal,63,2.5883432388185375
+347,Dejan Kulusevski,MID,Spurs,63,2.6488439641652213
+348,Pascal Groß,MID,Brighton,65,1.4692329238784407
+349,Gabriel dos Santos Magalhães,DEF,Arsenal,60,4.892708531977811
+350,Cody Gakpo,FWD,Liverpool,72,1.3822703712766011
+351,Salah-Eddine Oulad M'hand,MID,Arsenal,45,1.2560932848289075
+352,Mohammed Kudus,MID,West Ham,64,2.511910189978618
+353,Benicio Baker-Boaitey,MID,Brighton,45,1.4692329238784407
+354,Vitaly Janelt,MID,Brentford,49,1.6585977668569645
+355,Adama Traoré,MID,Fulham,50,2.4015265022254426
+356,Jens Cajuste,MID,Ipswich,45,1.680432175641113
+357,Tommy Setford,GK,Arsenal,45,2.3312191842805245
+358,Alexis Mac Allister,MID,Liverpool,64,2.2947211464831825
+359,Endo Wataru,MID,Liverpool,49,1.4887894433614242
+360,João Pedro Ferreira Silva,MID,Nott'm Forest,60,1.9779080621879817
+361,Ashley Phillips,DEF,Spurs,40,1.73391298846752
+362,Keane Lewis-Potter,MID,Brentford,50,2.010412596081697
+363,Ben Johnson,DEF,Ipswich,40,1.9559249011722848
+364,Michael Golding,MID,Leicester,45,1.5088898023477713
+365,João Félix Sequeira,MID,Chelsea,64,2.809025672095153
+366,Remi Matthews,GK,Crystal Palace,40,2.9628653366138886
+367,Alfie Gilchrist,DEF,Chelsea,40,1.3492996410592535
+368,Nayef Aguerd,DEF,West Ham,44,1.544575747875891
+369,Emile Smith Rowe,MID,Fulham,57,3.900137869617309
+370,Enes Ünal,FWD,Bournemouth,54,1.5605114022252509
+371,Lucas Bergström,GK,Chelsea,40,4.345419875582723
+372,Kacper Kozłowski,MID,Brighton,45,1.4692329238784407
+373,Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,59,3.928392512607183
+374,Axel Tuanzebe,DEF,Ipswich,40,2.8830385469051634
+375,Gabriel Fernando de Jesus,FWD,Arsenal,68,1.3080544330768769
+376,Iliman Ndiaye,FWD,Everton,54,2.4971600616991547
+377,David Raya Martin,GK,Arsenal,55,2.9943126875089874
+378,Enso González,MID,Wolves,45,1.5637473892625282
+379,Archie Gray,MID,Spurs,49,2.1254869694119614
+380,Christopher Nkunku,MID,Chelsea,62,2.2523886854211956
+381,Manuel Akanji,DEF,Man City,55,4.351935301766236
+382,Kaelan Casey,DEF,West Ham,40,1.544575747875891
+383,Ryan Gravenberch,MID,Liverpool,50,2.2658698289733996
+384,Joe Willock,MID,Newcastle,48,1.9540529569669371
+385,Mark Flekken,GK,Brentford,45,3.6674449803389972
+386,Lewis Cook,MID,Bournemouth,50,2.624615867702947
+387,Alex Iwobi,MID,Fulham,55,3.088658762383414
+388,Ethan Nwaneri,MID,Arsenal,45,1.3407229761148276
+389,Ross Stewart,FWD,Southampton,45,1.1153288545002495
+390,Matt Doherty,DEF,Wolves,45,1.2318852215330893
+391,Alejo Véliz,FWD,Spurs,50,1.1900912227057372
+392,Ilkay Gündogan,MID,Man City,65,3.287686652687319
+393,Isaac Hayden,MID,Newcastle,45,1.4548193920272423
+394,Wilson Odobert,MID,Spurs,55,1.718129215231908
+395,Conor Bradley,DEF,Liverpool,48,2.2257705447668354
+396,Tom Cairney,MID,Fulham,49,1.8589241754236863
+397,Jarell Quansah,DEF,Liverpool,42,2.089455143802796
+398,Jacob Ramsey,MID,Aston Villa,55,2.0142833743139423
+399,Emiliano Buendía Stati,MID,Aston Villa,54,1.179007801737022
+400,James McAtee,MID,Man City,48,1.3831408101961062
+401,Andrew Robertson,DEF,Liverpool,60,3.3038621884506396
+402,Luke Harris,MID,Fulham,45,1.347558261923599
+403,Youri Tielemans,MID,Aston Villa,55,2.2189996960758003
+404,João Neves Virgínia,GK,Everton,40,3.7840676881881246
+405,Oleksandr Zinchenko,DEF,Arsenal,49,2.613807121173437
+406,Francisco Jorge Tomás Oliveira,MID,Wolves,45,1.5637473892625282
+407,Ederson Santana de Moraes,GK,Man City,55,4.569883118214383
+408,Andrew Omobamidele,DEF,Nott'm Forest,44,1.5109795499775527
+409,Norberto Bercique Gomes Betuncal,FWD,Everton,50,1.3425924870264914
+410,Diogo Dalot Teixeira,DEF,Man Utd,50,2.340406601649243
+411,Pape Matar Sarr,MID,Spurs,49,1.5674391767938811
+412,Danny Welbeck,FWD,Brighton,58,1.5373201777968717
+413,Yankuba Minteh,MID,Brighton,55,2.2538541561370025
+414,Nathan Aké,DEF,Man City,53,2.0050929408605165
+415,Bernd Leno,GK,Fulham,50,4.316525914835332
+416,Jamaal Lascelles,DEF,Newcastle,45,1.2031683167473988
+417,Axel Disasi,DEF,Chelsea,44,2.5091251898249993
+418,Ismeal Kabia,MID,Arsenal,45,1.2560932848289075
+419,Kevin Schade,MID,Brentford,54,2.4170423408732478
+420,Victor Kristiansen,DEF,Leicester,45,1.6700234417072202
+421,Kyle Walker-Peters,DEF,Southampton,45,1.8943983414260495
+422,Daniel Bentley,GK,Wolves,40,2.0913952893730716
+423,Ivan Toney,FWD,Brentford,73,1.1292631131076396
+424,Carlos Soler,MID,West Ham,50,1.4667129821595468
+425,Antonee Robinson,DEF,Fulham,47,2.348029603345424
+426,Romain Faivre,MID,Bournemouth,50,1.152253605009523
+427,James Ward-Prowse,MID,Nott'm Forest,63,2.141179405055662
+428,Patson Daka,FWD,Leicester,49,1.2566972837287702
+429,Illia Zabarnyi,DEF,Bournemouth,45,2.063142411059603
+430,Gavin Bazunu,GK,Southampton,44,2.7139055702889663
+431,Sven Botman,DEF,Newcastle,44,1.2031683167473988
+432,Hugo Bueno López,DEF,Wolves,45,1.2960364226817611
+433,Danny Ward,GK,Leicester,40,1.1131966511966622
+434,Samuel Amo-Ameyaw,MID,Southampton,45,1.3145273961289972
+435,Joe Gauci,GK,Aston Villa,40,4.593023040569654
+436,João Pedro Junqueira de Jesus,FWD,Brighton,57,1.3699170937485325
+437,Justin Kluivert,MID,Bournemouth,54,1.65953601844152
+438,Martin Dúbravka,GK,Newcastle,43,2.0684250813175686
+439,Flynn Downes,MID,Southampton,49,2.1034117140915507
+440,Alejandro Garnacho,MID,Man Utd,64,2.1987723314610825
+441,Ronnie Edwards,DEF,Southampton,40,2.178540735524768
+442,Edson Álvarez Velázquez,MID,West Ham,50,1.4517492425955232
+443,Jack Grealish,MID,Man City,64,1.8459179914707997
+444,Marcus Myers-Harness,MID,Ipswich,49,1.331875173075213
+445,Jack Taylor,MID,Ipswich,49,1.6134310387420303
+446,Simon Adingra,MID,Brighton,55,1.9308617583798728
+447,Ben Mee,DEF,Brentford,44,1.544575747875891
+448,Leon Chiwome,FWD,Wolves,45,1.4575279743133964
+449,Eric da Silva Moreira,MID,Nott'm Forest,45,1.4172353484811135
+450,Luis Guilherme Lira dos Santos,MID,West Ham,49,1.4667129821595468
+451,Joe Hodge,MID,Wolves,45,1.5637473892625282
+452,Chiedozie Ogbene,MID,Ipswich,50,1.3058175267874392
+453,Harrison Armstrong,MID,Everton,45,1.356620308428242
+454,Carney Chukwuemeka,MID,Chelsea,49,1.4050038912920289
+455,Tom King,GK,Wolves,40,2.0913952893730716
+456,Wout Faes,DEF,Leicester,41,2.1573994280798012
+457,Leny Yoro,DEF,Man Utd,44,1.794273891273905
+458,Pedro Lomba Neto,MID,Chelsea,64,1.717754776848838
+459,Ian Maatsen,DEF,Aston Villa,49,2.4705530627605463
+460,Harry Winks,MID,Leicester,45,1.579529996890975
+461,Mads Roerslev Rasmussen,DEF,Brentford,45,1.9138077415370787
+462,Jurriën Timber,DEF,Arsenal,55,1.8246965331354859
+463,Saša Kalajdžić,FWD,Wolves,49,1.4575279743133964
+464,Anthony Elanga,MID,Nott'm Forest,53,1.8297263085275595
+465,Julio Enciso,MID,Brighton,54,1.7986295126211655
+466,Naouirou Ahamada,MID,Crystal Palace,45,1.3828993118335466
+467,Jeremy Sarmiento Morante,MID,Brighton,49,1.4692329238784407
+468,Ayden Heaven,DEF,Arsenal,40,2.9784233359825065
+469,Vladimír Coufal,DEF,West Ham,45,1.1482661975146669
+470,Marc Cucurella Saseta,DEF,Chelsea,50,1.8738315812226425
+471,Toti António Gomes,DEF,Wolves,44,1.4755426631164061
+472,Cristian Romero,DEF,Spurs,51,2.8323337221950773
+473,Dan Burn,DEF,Newcastle,45,1.322518737329164
+474,Destiny Udogie,DEF,Spurs,50,2.001943550803751
+475,Jordan Pickford,GK,Everton,49,3.2292695576151154
+476,Boubacar Traoré,MID,Wolves,49,1.5637473892625282
+477,Stefan Bajčetić Maquieira,MID,Liverpool,45,1.4887894433614242
+478,Mikkel Damsgaard,MID,Brentford,50,1.5730946584529195
+479,Luis Díaz,MID,Liverpool,78,4.314480125047406
+480,Enzo Barrenechea,MID,Aston Villa,49,1.4671840588956053
+481,Carlos Vinícius Alves Morais,FWD,Fulham,50,1.8517130437826732
+482,Pervis Estupiñán,DEF,Brighton,50,1.5774823192215823
+483,James Milner,MID,Brighton,50,1.6765916002394023
+484,Ryan Trevitt,MID,Brentford,45,1.3898597789977432
+485,Enzo Fernández,MID,Chelsea,50,2.0201823791731854
+486,Luke Shaw,DEF,Man Utd,49,1.794273891273905
+487,Fábio Freitas Gouveia Carvalho,MID,Brentford,48,2.1029499026405065
+488,Jérémy Doku,MID,Man City,65,1.9944988630615983
+489,Marcus Bettinelli,GK,Chelsea,40,4.345419875582723
+490,Alisson Ramses Becker,GK,Liverpool,55,3.4201238350868346
+491,Aaron Hickey,DEF,Brentford,44,1.544575747875891
+492,Vítezslav Jaros,GK,Liverpool,40,2.179722768237926
+493,Alex McCarthy,GK,Southampton,45,2.7139055702889663
+494,Neal Maupay,FWD,Everton,49,1.2853109716609277
+495,Steven Benda,GK,Fulham,40,3.5543194220552667
+496,Dean Henderson,GK,Crystal Palace,45,2.1097994161065707
+497,Ki-Jana Hoever,DEF,Wolves,40,1.2960364226817611
+498,Cheick Doucouré,MID,Crystal Palace,49,1.4381948590941178
+499,Scott McTominay,MID,Man Utd,49,1.4692329238784407
+500,Wilfred Ndidi,MID,Leicester,50,1.4802891985215427
+501,Maxence Lacroix,DEF,Crystal Palace,45,2.1782864184733914
+502,John Ruddy,GK,Newcastle,40,2.0684250813175686
+503,Caleb Okoli,DEF,Leicester,40,2.000056299601568
+504,Odysseas Vlachodimos,GK,Newcastle,44,2.0684250813175686
+505,George Earthy,MID,West Ham,45,1.4667129821595468
+506,Daichi Kamada,MID,Crystal Palace,53,1.8167529122523565
+507,Reece James,DEF,Chelsea,50,1.3492996410592535
+508,Georginio Rutter,MID,Brighton,55,1.5895593846532137
+509,Conor Chaplin,MID,Ipswich,53,1.8668043067825333
+510,Santiago Bueno,DEF,Wolves,44,1.629055330278999
+511,Corrie Ndaba,DEF,Ipswich,40,1.829250933450742
+512,Kenny Tete,DEF,Fulham,45,1.9803473499549793
+513,Pablo Sarabia,MID,Wolves,53,1.5637473892625282
+514,Diogo Teixeira da Silva,MID,Liverpool,76,3.612776712728551
+515,Kortney Hause,DEF,Aston Villa,40,2.122876995467014
+516,Liam Delap,FWD,Ipswich,55,1.4063912020033293
+517,Bastien Meupiyou,DEF,Wolves,40,1.2960364226817611
+518,Tino Livramento,DEF,Newcastle,45,0.0
+519,Tyler Adams,MID,Bournemouth,49,1.152253605009523
+520,Danilo dos Santos de Oliveira,MID,Nott'm Forest,48,1.4172353484811135
+521,Jenson Metcalfe,MID,Everton,45,1.356620308428242
+522,Marcus Rashford,MID,Man Utd,69,1.882391927244771
+523,James Maddison,MID,Spurs,75,1.9244204472400068
+524,Daniel Muñoz,DEF,Crystal Palace,49,2.6115032605192883
+525,Bruno Guimarães Rodriguez Moura,MID,Newcastle,64,1.9589014606801203
+526,Fraser Forster,GK,Spurs,44,2.5768031496663153
+527,Elliot Anderson,MID,Nott'm Forest,50,1.4688133901682234
+528,Charlie Taylor,DEF,Southampton,40,4.582811761054375
+529,Bryan Mbeumo,MID,Brentford,71,2.671110149300703
+530,Matty Cash,DEF,Aston Villa,44,2.122876995467014
+531,Adam Lallana,MID,Southampton,50,1.7975997950487046
+532,Sandro Tonali,MID,Newcastle,55,2.3724618944409386
+533,Issa Diop,DEF,Fulham,45,2.5060169356334088
+534,Igor Julio dos Santos de Paulo,DEF,Brighton,44,1.794273891273905
+535,Joelinton Cássio Apolinário de Lira,MID,Newcastle,60,1.7256677822227218
+536,John McGinn,MID,Aston Villa,54,1.7064421643306829
+537,Oscar Bobb,MID,Man City,48,1.3831408101961062
+538,Pedro Cardoso de Lima,DEF,Wolves,40,1.2960364226817611
+539,Pierre-Emile Højbjerg,MID,Spurs,50,1.4390227605955936
+540,Nathan Collins,DEF,Brentford,45,2.0790547465340476
+541,Jesper Lindstrøm,MID,Everton,53,1.8386421519360954
+542,Marc Guéhi,DEF,Crystal Palace,45,2.8107272843272875
+543,Mathias Jorgensen,DEF,Brentford,45,1.544575747875891
+544,William Osula,FWD,Newcastle,50,1.6732540199725792
+545,Harry Souttar,DEF,Leicester,40,1.4283139700796452
+546,Jean-Philippe Mateta,FWD,Crystal Palace,74,2.0849693457930285
+547,Ben Nelson,DEF,Leicester,40,1.4283139700796452
+548,Bernardo Veiga de Carvalho e Silva,MID,Man City,66,1.5812373360209295
+549,Filip Jørgensen,GK,Chelsea,44,4.345419875582723
+550,David Brooks,MID,Bournemouth,49,1.152253605009523
+551,Son Heung-min,MID,Spurs,100,3.1772994749054195
+552,Solly March,MID,Brighton,65,1.4692329238784407
+553,Manor Solomon,MID,Spurs,54,1.4390227605955936
+554,Nathaniel Phillips,DEF,Liverpool,40,2.089455143802796
+555,Kieran Trippier,DEF,Newcastle,58,2.0018134992053636
+556,John Stones,DEF,Man City,54,1.8218262864533528
+557,Sam Morsy,MID,Ipswich,49,1.4204354956657723
+558,Jayden Meghoma,DEF,Brentford,40,1.544575747875891
+559,Lewis Hall,DEF,Newcastle,44,1.4410625231428562
+560,Marc Guiu Paz,FWD,Chelsea,50,1.2853109716609277
+561,Tom Cannon,FWD,Leicester,45,1.2566972837287702
+562,Ben Davies,DEF,Spurs,44,1.73391298846752
+563,Tyler Morton,MID,Liverpool,45,1.4887894433614242
+564,Matheus França de Oliveira,MID,Crystal Palace,44,1.3828993118335466
+565,Calvin Bassey,DEF,Fulham,45,1.9476974301621972
+566,Eddie Nketiah,FWD,Crystal Palace,59,1.4198545525615702
+567,Andreas Hoelgebaum Pereira,MID,Fulham,54,2.564131998241676
+568,Matheus Santos Carneiro Da Cunha,FWD,Wolves,65,3.6838928953801107
+569,Amadou Onana,MID,Aston Villa,52,2.0733974679616267
+570,Morgan Rogers,MID,Aston Villa,51,2.8583904197493957
+571,Reiss Nelson,MID,Fulham,50,1.5555706467967405
+572,Tosin Adarabioyo,DEF,Chelsea,44,2.3666414317804927
+573,Matt Targett,DEF,Newcastle,40,1.2031683167473988
+574,Filip Marschall,GK,Aston Villa,40,4.593023040569654
+575,Jan Paul van Hecke,DEF,Brighton,45,1.8051671993972738
+576,Jean-Clair Todibo,DEF,West Ham,44,1.544575747875891
+577,Jack Clarke,MID,Ipswich,55,1.80285298284105
+578,Chris Mepham,DEF,Bournemouth,44,3.101797406151654
+579,Ollie Watkins,FWD,Aston Villa,90,2.4266642949749397
+580,Jorge Cuenca Barreno,DEF,Fulham,44,1.6806416412004315
+581,Rico Lewis,DEF,Man City,47,3.552308275443205
+582,Julián Araujo Zúñiga,DEF,Bournemouth,45,3.0042046429661893
+583,Murillo Santiago Costa dos Santos,DEF,Nott'm Forest,45,3.159879060660696
+584,James Tarkowski,DEF,Everton,49,3.4613704809448977
+585,Joël Veltman,DEF,Brighton,45,1.7497856921202404
+586,Jaidon Anthony,MID,Bournemouth,45,1.152253605009523
+587,Kamaldeen Sulemana,MID,Southampton,50,1.3145273961289972
+588,Timo Werner,MID,Spurs,63,1.61992935594796
+589,Tyrone Mings,DEF,Aston Villa,44,2.122876995467014
+590,Ethan Wheatley,FWD,Man Utd,45,1.1652173967973596
+591,Matz Sels,GK,Nott'm Forest,45,2.8801706136293883
+592,Ryan Yates,MID,Nott'm Forest,50,1.3890839023746087
+593,Amad Diallo,MID,Man Utd,50,2.401495393659816
+594,Sam Szmodics,MID,Ipswich,60,3.7334440457695113
+595,Malo Gusto,DEF,Chelsea,49,1.276829791505258
+596,Hwang Ui-jo,FWD,Nott'm Forest,45,1.1116394615680498
+597,Jakub Stolarczyk,GK,Leicester,40,1.1131966511966622
+598,Lloyd Kelly,DEF,Newcastle,45,1.4595641907778538
+599,Mateus Gonçalo Espanha Fernandes,MID,Southampton,50,2.4571950647921286
+600,Valentín Barco,DEF,Brighton,40,1.794273891273905
+601,Dean Huijsen,DEF,Bournemouth,45,3.5625962399495466
+602,Carlos Roberto Forbs Borges,MID,Wolves,55,1.5637473892625282
+603,André Trindade da Costa Neto,MID,Wolves,50,1.8861715779803196
+604,Max Aarons,DEF,Bournemouth,44,3.101797406151654
+605,Rhys Williams,DEF,Liverpool,40,2.089455143802796
+606,Michail Antonio,FWD,West Ham,55,2.759954664958931
+607,Ibrahim Osman,MID,Brighton,50,1.4692329238784407
+608,Lewis Miley,MID,Newcastle,50,1.4548193920272423
+609,Nathan Wood-Gordon,DEF,Southampton,40,2.178540735524768
+610,Rodrigo Muniz Carvalho,FWD,Fulham,60,1.8069187352753442
+611,Benjamin White,DEF,Arsenal,65,1.6558434437785028
+612,Cameron Burgess,DEF,Ipswich,40,1.829250933450742
+613,Abdul Fatawu,MID,Leicester,55,1.8457634171259398
+614,Dominik Szoboszlai,MID,Liverpool,65,2.2158761606770945
+615,Tim Iroegbunam,MID,Everton,45,1.5604115878164806
+616,Neco Williams,DEF,Nott'm Forest,45,1.4563226489996524
+617,Roméo Lavia,MID,Chelsea,45,1.4050038912920289
+618,Leon Bailey,MID,Aston Villa,64,1.718928964452663
+619,Niclas Füllkrug,FWD,West Ham,68,1.1269480164205294
+620,Harvey Barnes,MID,Newcastle,64,2.3209349841696114
+621,Brennan Johnson,MID,Spurs,64,2.5929049867877616
+622,Andrew Moran,MID,Brighton,50,1.4692329238784407
+623,Harry Maguire,DEF,Man Utd,50,1.5653842979420713
+624,Mark Travers,GK,Bournemouth,44,4.15356668759489
+625,Will Smallbone,MID,Southampton,50,1.7458717715778609
+626,Mykhailo Mudryk,MID,Chelsea,63,1.4657211738607727
+627,Hamed Traorè,MID,Bournemouth,45,1.152253605009523
+628,Stefan Ortega Moreno,GK,Man City,54,3.750408388000994
+629,Renato Palma Veiga,MID,Chelsea,45,1.7148860938685897
+630,Eberechi Eze,MID,Crystal Palace,69,2.079885720874182
+631,Samuel Iling-Junior,MID,Aston Villa,54,1.4671840588956053
+632,Boubacar Kamara,MID,Aston Villa,50,1.4671840588956053
+633,Ali Al-Hamadi,FWD,Ipswich,50,1.0642176969434578
+634,Willy Boly,DEF,Nott'm Forest,44,1.5109795499775527
+635,Carlos Alcaraz Durán,MID,Southampton,49,1.3145273961289972
+636,Victor Lindelöf,DEF,Man Utd,44,1.794273891273905
+637,Ross Barkley,MID,Aston Villa,53,1.8248860346534412
+638,James McConnell,MID,Liverpool,45,1.4887894433614242
+639,Kobbie Mainoo,MID,Man Utd,54,1.9549818269685884
+640,Ramón Sosa,MID,Nott'm Forest,55,1.4585053499702876
+641,Sander Berge,MID,Fulham,50,1.5739375653342664
+642,Maldini Kacurri,DEF,Arsenal,40,2.9784233359825065
+643,Adam Armstrong,FWD,Southampton,54,1.286667887040709
+644,Aaron Cresswell,DEF,West Ham,40,1.994222537289121
+645,Emil Krafth,DEF,Newcastle,45,1.332237894640075
+646,Jakub Kiwior,DEF,Arsenal,49,1.949322247278685
+647,Kristoffer Ajer,DEF,Brentford,45,3.408221259256976
+648,Will Hughes,MID,Crystal Palace,49,2.5816203437628586
+649,David Ozoh,MID,Crystal Palace,45,1.3828993118335466
+650,Jakub Moder,MID,Brighton,44,1.4692329238784407
+651,Cieran Slicker,GK,Ipswich,40,3.301039955090056
+652,Raheem Sterling,MID,Arsenal,68,2.463263118848099
+653,Raúl Jiménez,FWD,Fulham,54,3.082387004708595
+654,Bryan Gil Salvatierra,MID,Spurs,50,1.4390227605955936
+655,Myles Lewis-Skelly,MID,Arsenal,45,1.3383638169553884
+656,Giovani Lo Celso,MID,Spurs,49,1.4390227605955936
+657,Tawanda Chirewa,MID,Wolves,45,1.5637473892625282
+658,Cameron Humphreys,MID,Ipswich,45,1.331875173075213
+659,Ashley Young,DEF,Everton,45,4.809635235471084
+660,James Bree,DEF,Southampton,40,2.178540735524768
