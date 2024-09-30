@@ -4,17 +4,18 @@ from PIL import Image
 from io import BytesIO
 import base64
 
-image_path = 'images/mesh-gradient65.png'  
-image = Image.open(image_path)
-buffered = BytesIO()
-image.save(buffered, format="PNG")
-img_str = base64.b64encode(buffered.getvalue()).decode()
+def image_encoding(image_path, image_format):
+    image = Image.open(image_path)
+    buffered = BytesIO()
+    image.save(buffered, format=image_format)
+    return base64.b64encode(buffered.getvalue()).decode()
 
+background_image = image_encoding('images/mesh-gradient3.png', 'PNG')
 
 st.session_state.page_styling = f"""
 <style>
 [data-testid="stAppViewContainer"] {{
-background-image: url("data:image/jpeg;base64,{img_str}");
+background-image: url("data:image/jpeg;base64,{background_image}");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100vh; 
@@ -24,6 +25,10 @@ overflow: hidden;
 
 [data-testid="stHeader"] {{
 background: rgba(0,0,0,0);
+}}
+
+[data-testid="stSidebar"] {{
+background-color: #D1F5FF;
 }}
 </style>
 """

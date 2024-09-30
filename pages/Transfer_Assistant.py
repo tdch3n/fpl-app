@@ -33,7 +33,10 @@ if subs_in:
 
 st.write('#### Are there specific players that you want to transfer out?')
 
-specific_players = st.radio('Select an option:', ('Yes', 'No'))
+specific_players = st.radio(
+    'Select an option:', 
+    options = ('Yes', 'No')
+    )
 
 if specific_players == 'Yes':
     transfer_out = st.multiselect(
