@@ -1,6 +1,32 @@
 import streamlit as st
 import pandas as pd
 
+if 'df' not in st.session_state:
+    st.session_state.df = pd.read_csv('data/preds_for_gw5.csv')
+
+
+if 'page_styling' not in st.session_state:
+    st.session_state.page_styling = f"""
+    <style>
+    [data-testid="stAppViewContainer"] {{
+    background-image: url("data:image/jpeg;base64,{background_image}");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    width: 100vw;  
+    overflow: hidden; 
+    }}
+
+    [data-testid="stHeader"] {{
+    background: rgba(0,0,0,0);
+    }}
+
+    [data-testid="stSidebar"] {{
+    background-color: #D1F5FF;
+    }}
+    </style>
+    """
+
 st.markdown(st.session_state.page_styling, unsafe_allow_html=True)
 
 # Load all player names
