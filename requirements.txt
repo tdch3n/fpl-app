@@ -1,4 +1,3 @@
 streamlit
 pandas
-pulp
-time
+pulp==2.6.0
