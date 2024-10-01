@@ -4,6 +4,7 @@ from PIL import Image
 from io import BytesIO
 import base64
 
+
 def image_encoding(image_path, image_format):
     image = Image.open(image_path)
     buffered = BytesIO()
